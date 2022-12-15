@@ -1,0 +1,13 @@
+.Ground{
+    height: 10rem;
+    width: 10rem;
+    background: black;
+}
+
+.Normal{
+    background: gray;
+}
+
+.Desert{
+    background: wheat;
+}
